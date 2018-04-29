@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "563109409694",
+    "firebase_url": "https://trackcampaign-e7d55.firebaseio.com",
+    "project_id": "trackcampaign-e7d55",
+    "storage_bucket": "trackcampaign-e7d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563109409694:android:971ac2b92780589d",
+        "android_client_info": {
+          "package_name": "com.digitstory.trackcampaign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563109409694-8bq5tmiuib0itp87fcaebo27p557p2n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7cqf30xIwikc9zFuUesWpwKVqeDakrbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
